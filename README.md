@@ -1,0 +1,2 @@
+# ConnectFour-
+ Connect four is two player game. Players take turn dropping red and black checkers into the columns of a board. The board is upright so checkers fall down to the lowest open spot in a column.  Write a program to run a game of connect fours between two human players. The players use red and black checkers. Red goes first. Players alternate turns until one player has four checkers in a row horizontally, vertically, or diagonally. It is possible for the game to end in a draw if no player can achieve four in a row.
